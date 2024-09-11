@@ -1,3 +1,4 @@
 # belajar-kolaborasi
-ini adalah latihan
-berikutnya mulai mempratikan
+ini adalah latihan<br>
+berikutnya mulai mempratikan<br>
+selanjutnya uji coba
